@@ -1,177 +1,186 @@
-# Adarsh Dubey
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=900&color=9CA3AF&center=true&vCenter=true&width=600&lines=Software+Developer;AI+%26+Automation+Enthusiast;Backend+Developer;Building+Ideas+Into+Products" alt="Animated introduction" />
+<h1>Adarsh Dubey</h1>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=E6EDF3&amp;center=true&amp;vCenter=true&amp;width=460&amp;height=36&amp;lines=Software+Developer;AI+%26+Automation+Enthusiast;Backend+Developer;Problem+Solver">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=1F2328&amp;center=true&amp;vCenter=true&amp;width=460&amp;height=36&amp;lines=Software+Developer;AI+%26+Automation+Enthusiast;Backend+Developer;Problem+Solver">
+  <img alt="Animated headline cycling through: Software Developer, AI and Automation Enthusiast, Backend Developer, Problem Solver" src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=1F2328&amp;center=true&amp;vCenter=true&amp;width=460&amp;height=36&amp;lines=Software+Developer;AI+%26+Automation+Enthusiast;Backend+Developer;Problem+Solver">
+</picture>
+
+<p>
+  Computer Science Engineering student at ABES Engineering College.<br>
+  I build Django backends and AI-agent workflows that automate multi-step work.
 </p>
 
-<p align="center">
-  <a href="https://github.com/adarsh-dubey-gthb">
-    <img src="https://img.shields.io/badge/GitHub-Profile-white?style=flat-square&logo=github&logoColor=black" alt="GitHub Profile" />
-  </a>
-  <a href="https://axiomtech.live">
-    <img src="https://img.shields.io/badge/Axiom-Product-111111?style=flat-square" alt="Axiom" />
-  </a>
-  <a href="https://adarshdubey.site">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=flat-square" alt="Portfolio" />
-  </a>
+<p>
+  <a href="#about">About</a> ·
+  <a href="#stack">Stack</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#problem-solving">Problem solving</a> ·
+  <a href="#github-activity">Activity</a> ·
+  <a href="#contact">Contact</a>
 </p>
 
-<p align="center">
-  <i>Curious mind. Practical engineering. Continuous evolution.</i>
-</p>
+<img src="./assets/divider.svg" alt="Section divider" width="100%" height="2">
 
----
+</div>
 
-## About
+### About
 
-I'm a Computer Science Engineering student interested in building useful software, backend systems, and AI-powered automation.
-
-I enjoy understanding how things work, solving problems through code, and turning ideas into working products.
-
-- Building web applications with Python and Django.
-- Exploring AI agents and multi-agent orchestration.
-- Practicing Data Structures & Algorithms.
-- Developing projects focused on real-world problems.
-- Continuously learning, experimenting, and improving.
-
----
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,django,tailwind,sqlite,git,github,vscode&theme=dark" alt="Technology icons" />
-</p>
-
-**Currently exploring:** AI/ML, NumPy, Pandas, Google ADK, agentic workflows, Django Channels, WebSockets, and cloud deployment.
-
----
-
-## Selected Work
+My work sits between Django backends with real-time features and AI-agent workflows that automate multi-step tasks. I practise data structures and algorithms regularly, and I try to keep an honest line between the tools I use day to day and the ones I'm still learning.
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### AutoForge
-
-AI-powered development workflow automation.
-
-Exploring how specialized agents can coordinate planning, code analysis, testing, builds, and deployment workflows.
-
-**Focus:** AI agents · Python · SDLC automation
-
-<a href="https://github.com/adarsh-dubey-gthb?tab=repositories">Explore repositories ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-### Axiom
-
-A student-focused developer community concept.
-
-Bringing developer profiles, coding achievements, leaderboards, and student-oriented technical resources together.
-
-**Focus:** Web development · Community · Product design
-
-<a href="https://axiomtech.live">Visit Axiom ↗</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Django Portfolio
-
-A personal website showcasing projects, skills, and development work.
-
-Built around backend functionality, reusable pages, and deployment workflows.
-
-**Focus:** Python · Django · HTML · CSS · JavaScript
-
-<a href="https://adarshdubey.site">View portfolio ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-### Real-Time College Community
-
-A college community application concept featuring messaging, notifications, resources, and student interactions.
-
-**Focus:** Django · Channels · WebSockets · SQLite
-
-<a href="https://github.com/adarsh-dubey-gthb?tab=repositories">Explore repositories ↗</a>
-
-</td>
-</tr>
+  <tr>
+    <td><b>Working on</b></td>
+    <td>AutoForge, an agent-driven workflow for the software development lifecycle</td>
+  </tr>
+  <tr>
+    <td><b>Exploring</b></td>
+    <td>Google ADK, multi-agent orchestration, Google Cloud</td>
+  </tr>
+  <tr>
+    <td><b>Open to</b></td>
+    <td>Internships and entry-level roles in AI/ML and software engineering</td>
+  </tr>
 </table>
 
----
+### Stack
 
-## Problem Solving
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | C · C++ · Python · Java · JavaScript |
+| **Web** | HTML · CSS · Tailwind CSS · JavaScript |
+| **Backend** | Django · authentication · database models · Django Channels · WebSockets · SQLite |
+| **AI & data** | Python · NumPy · Pandas · Matplotlib · ML fundamentals · AI agents · workflow automation |
+| **Tooling** | Git · GitHub · VS Code · code-quality tools |
+| **Still learning** | Google ADK · multi-agent orchestration · Google Cloud · deployment workflows |
 
-I practice DSA to improve algorithmic thinking, write efficient solutions, and prepare for software engineering interviews.
+### Projects
 
-**Topics explored**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>AutoForge</b><br>
+      <sub>AI-agent SDLC automation</sub><br><br>
+      Agent-based pipeline for the software development lifecycle: planning, code analysis, testing, build automation, deployment orchestration, and notifications.<br><br>
+      <sub>Python · Google ADK · Google Cloud · static-analysis tools</sub><br><br>
+      <a href="https://github.com/adarsh-dubey-gthb?tab=repositories">Browse my repositories</a>
+    </td>
+    <td width="50%" valign="top">
+      <b>Axiom</b><br>
+      <sub>Developer platform concept for students</sub><br><br>
+      Technical portfolios, coding achievements, leaderboards, student communities, and career opportunities in one place.<br><br>
+      <sub>Product concept</sub><br><br>
+      <a href="https://axiomtech.live">Visit axiomtech.live</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Personal Portfolio</b><br>
+      <sub>Django website</sub><br><br>
+      A Django-based site documenting my projects, skills, and development journey.<br><br>
+      <sub>Django · HTML · CSS</sub><br><br>
+      <a href="https://adarshdubey.site">Visit adarshdubey.site</a>
+    </td>
+    <td width="50%" valign="top">
+      <b>College Community &amp; Real-Time Chat</b><br>
+      <sub>Campus web application concept</sub><br><br>
+      Student accounts, community features, real-time messaging, notifications, resources, and events.<br><br>
+      <sub>Django · Django Channels · WebSockets · JavaScript · HTML · CSS · SQLite</sub>
+    </td>
+  </tr>
+</table>
 
-`Arrays` · `Binary Search` · `Linked Lists` · `Trees` · `Graphs` · `BFS / DFS` · `Shortest Paths` · `Dynamic Programming` · `Recursion` · `Backtracking`
+<details>
+<summary>More from my repositories</summary>
+<br>
 
-<p align="left">
-  <a href="https://leetcode.com/u/adarshdubey_007/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://codeforces.com/profile/adarshdubey_007">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.codechef.com/users/contact_adarsh">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
+| Repository | Language |
+| :--- | :--- |
+| [Social_Network](https://github.com/adarsh-dubey-gthb/Social_Network) | Jupyter Notebook |
+| [custom-yolo-detector](https://github.com/adarsh-dubey-gthb/custom-yolo-detector) | Python |
+| [pipline-in-ml](https://github.com/adarsh-dubey-gthb/pipline-in-ml) | Jupyter Notebook |
+| [Project_Yatra](https://github.com/adarsh-dubey-gthb/Project_Yatra) | Python |
+| [SafeMind](https://github.com/adarsh-dubey-gthb/SafeMind) | HTML |
+| [FSD-CSE-11](https://github.com/adarsh-dubey-gthb/FSD-CSE-11) | HTML |
+
+</details>
+
+### Problem solving
+
+| Focus | Topics |
+| :--- | :--- |
+| **Linear structures** | Arrays · binary search · linked lists · stacks · queues |
+| **Trees & graphs** | Trees · graphs · BFS · DFS · shortest-path algorithms · topological sorting |
+| **Paradigms** | Dynamic programming · recursion · backtracking |
+
+<p>
+  <a href="https://leetcode.com/u/adarshdubey_007/">LeetCode</a> ·
+  <a href="https://codeforces.com/profile/adarshdubey_007">Codeforces</a> ·
+  <a href="https://www.codechef.com/users/contact_adarsh">CodeChef</a>
 </p>
 
----
+<div align="center">
+<img src="./assets/divider.svg" alt="Section divider" width="100%" height="2">
+</div>
 
-## GitHub Activity
+### GitHub activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adarsh-dubey-gthb&show_icons=true&hide_border=true&bg_color=00000000&title_color=9CA3AF&text_color=9CA3AF&icon_color=FFFFFF&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dubey-gthb&layout=compact&hide_border=true&bg_color=00000000&title_color=9CA3AF&text_color=9CA3AF" alt="Most used programming languages" />
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adarsh-dubey-gthb&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;include_all_commits=true&amp;bg_color=0D1117&amp;title_color=E6EDF3&amp;text_color=8B949E&amp;icon_color=8B949E">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adarsh-dubey-gthb&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;include_all_commits=true&amp;bg_color=FFFFFF&amp;title_color=1F2328&amp;text_color=57606A&amp;icon_color=57606A">
+        <img alt="GitHub statistics for adarsh-dubey-gthb" src="https://github-readme-stats.vercel.app/api?username=adarsh-dubey-gthb&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;include_all_commits=true&amp;bg_color=FFFFFF&amp;title_color=1F2328&amp;text_color=57606A&amp;icon_color=57606A">
+      </picture>
+    </td>
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dubey-gthb&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;custom_title=Languages+by+code+size&amp;bg_color=0D1117&amp;title_color=E6EDF3&amp;text_color=8B949E">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dubey-gthb&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;custom_title=Languages+by+code+size&amp;bg_color=FFFFFF&amp;title_color=1F2328&amp;text_color=57606A">
+        <img alt="Most-used programming languages across public repositories of adarsh-dubey-gthb" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dubey-gthb&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;custom_title=Languages+by+code+size&amp;bg_color=FFFFFF&amp;title_color=1F2328&amp;text_color=57606A">
+      </picture>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=adarsh-dubey-gthb&hide_border=true&background=00000000&ring=9CA3AF&fire=FFFFFF&currStreakLabel=9CA3AF&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=737373" alt="GitHub contribution streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=adarsh-dubey-gthb&amp;bg_color=0D1117&amp;color=8B949E&amp;line=C9D1D9&amp;point=FFFFFF&amp;area=true&amp;area_color=21262D&amp;hide_border=true&amp;hide_title=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=adarsh-dubey-gthb&amp;bg_color=FFFFFF&amp;color=57606A&amp;line=1F2328&amp;point=1F2328&amp;area=true&amp;area_color=D0D7DE&amp;hide_border=true&amp;hide_title=true">
+  <img alt="Contribution activity graph for adarsh-dubey-gthb over the last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh-dubey-gthb&amp;bg_color=FFFFFF&amp;color=57606A&amp;line=1F2328&amp;point=1F2328&amp;area=true&amp;area_color=D0D7DE&amp;hide_border=true&amp;hide_title=true" width="100%">
+</picture>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh-dubey-gthb&bg_color=00000000&color=9CA3AF&line=737373&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</p>
+<!-- Optional: delete this block if you prefer not to show the streak card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=adarsh-dubey-gthb&amp;hide_border=true&amp;background=0D1117&amp;ring=8B949E&amp;fire=C9D1D9&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=C9D1D9&amp;sideLabels=8B949E&amp;dates=6E7681">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=adarsh-dubey-gthb&amp;hide_border=true&amp;background=FFFFFF&amp;ring=57606A&amp;fire=1F2328&amp;currStreakNum=1F2328&amp;sideNums=1F2328&amp;currStreakLabel=1F2328&amp;sideLabels=57606A&amp;dates=6E7781">
+  <img alt="Contribution streak for adarsh-dubey-gthb" src="https://streak-stats.demolab.com/?user=adarsh-dubey-gthb&amp;hide_border=true&amp;background=FFFFFF&amp;ring=57606A&amp;fire=1F2328&amp;currStreakNum=1F2328&amp;sideNums=1F2328&amp;currStreakLabel=1F2328&amp;sideLabels=57606A&amp;dates=6E7781">
+</picture>
 
----
+<sub>Language share reflects bytes of code in my public repositories. It is not a measure of proficiency.</sub>
 
-## What I'm Working Towards
+### Currently learning
 
-- Becoming a stronger software engineer.
-- Building production-quality backend applications.
-- Creating useful AI-powered products and automation systems.
-- Improving problem-solving and system design fundamentals.
-- Turning experiments into practical, well-documented projects.
+- Designing multi-agent workflows with Google ADK
+- Deploying and operating services on Google Cloud
+- Harder graph and dynamic-programming problems
+- Testing and static-analysis tooling for cleaner code
 
----
+### Contact
 
-## Connect
+<!-- Add your email or LinkedIn link here once you are ready to share it publicly -->
+<a href="https://adarshdubey.site">Portfolio</a> ·
+<a href="https://axiomtech.live">Axiom</a> ·
+<a href="https://github.com/adarsh-dubey-gthb?tab=repositories">GitHub repositories</a> ·
+<a href="https://leetcode.com/u/adarshdubey_007/">LeetCode</a> ·
+<a href="https://codeforces.com/profile/adarshdubey_007">Codeforces</a> ·
+<a href="https://www.codechef.com/users/contact_adarsh">CodeChef</a>
 
-<p align="center">
-  <a href="https://github.com/adarsh-dubey-gthb">GitHub</a>
-  &nbsp; · &nbsp;
-  <a href="https://axiomtech.live">Axiom</a>
-  &nbsp; · &nbsp;
-  <a href="https://adarshdubey.site">Portfolio</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/">LinkedIn</a>
-</p>
-
-<p align="center">
-  <sub>Designed with simplicity in mind. Built with curiosity.</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=737373&section=footer" width="100%" alt="" />
-</p>
+<div align="center">
+<br>
+<img src="./assets/divider.svg" alt="Section divider" width="100%" height="2">
+<br>
+<sub>Hand-written Markdown. Adapts to light and dark mode.</sub>
+</div>
